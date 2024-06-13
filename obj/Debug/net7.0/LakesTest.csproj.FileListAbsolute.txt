@@ -1,0 +1,14 @@
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\bin\Debug\net7.0\LakesTest.exe
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\bin\Debug\net7.0\LakesTest.deps.json
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\bin\Debug\net7.0\LakesTest.runtimeconfig.json
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\bin\Debug\net7.0\LakesTest.dll
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\bin\Debug\net7.0\LakesTest.pdb
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\LakesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\LakesTest.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\LakesTest.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\LakesTest.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\LakesTest.dll
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\refint\LakesTest.dll
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\LakesTest.pdb
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\LakesTest.genruntimeconfig.cache
+C:\Users\Pavel\source\repos\LakesTest\LakesTest\obj\Debug\net7.0\ref\LakesTest.dll
